@@ -1,0 +1,3 @@
+SERVER := server
+CLIENT := client
+
